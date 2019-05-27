@@ -13,11 +13,11 @@
             "path": "/pages/index/index"
         },
         "web": {
-            "url": "https://www.chameleon.com/"
+            "url": "https://www.chameleon.com#/"
         },
         "weex": {
-            "url": "https://startheart.github.io/cml-flexbox/dist/weex/cml-flexbox_c2a7aa7fd88d921b9072.js",
-            "md5": "80E03D271980278EE7E0E332F9245FE6",
+            "url": "https://startheart.github.io/cml-flexbox/dist/weex/cml-flexbox_d774761f605eaf7902e5.js",
+            "md5": "51814539F4600F39208167AB570215A6",
             "query": {
                 "path": "/pages/index/index"
             }

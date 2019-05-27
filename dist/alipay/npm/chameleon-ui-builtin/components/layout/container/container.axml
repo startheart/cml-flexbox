@@ -1,3 +1,0 @@
-<view class="c-container  cml-base cml-view cml-c51f5130" style="{{containerStyle}}">
-  <slot class=" cml-base cml-slot cml-c51f5130"></slot>
-</view>
