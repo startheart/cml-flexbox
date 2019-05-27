@@ -2,7 +2,8 @@
 基于[chameleon](https://github.com/didi/chameleon)跨端框架，测试 FlexBox 布局实现效果
 
 web 端预览效果：
-<iframe src="https://startheart.github.io/cml-flexbox/preview/preview.html" ></iframe>
+
+<iframe width="375px" height="1000px" src="https://startheart.github.io/cml-flexbox/preview/preview.html" ></iframe>
 
 [访问地址](https://startheart.github.io/cml-flexbox/dist/web/cml-flexbox.html)
 
