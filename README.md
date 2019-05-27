@@ -3,8 +3,6 @@
 
 web 端预览效果：
 
-<iframe width="375px" height="1000px" src="https://startheart.github.io/cml-flexbox/preview/preview.html" ></iframe>
-
 [访问地址](https://startheart.github.io/cml-flexbox/dist/web/cml-flexbox.html)
 
 # 使用
