@@ -501,12 +501,6 @@
             <view class="item item-block lightskyblue">
               <text class="color-white">0</text>
             </view>
-            <view class="item item-block lightskyblue">
-              <text class="color-white">0</text>
-            </view>
-            <view class="item item-block lightskyblue">
-              <text class="color-white">0</text>
-            </view>
           </view>
         </view>
       </view>
