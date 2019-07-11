@@ -500,12 +500,6 @@
           <view class="item item-block lightskyblue  cml-base cml-view">
             <text class="color-white  cml-base cml-text">0</text>
           </view>
-          <view class="item item-block lightskyblue  cml-base cml-view">
-            <text class="color-white  cml-base cml-text">0</text>
-          </view>
-          <view class="item item-block lightskyblue  cml-base cml-view">
-            <text class="color-white  cml-base cml-text">0</text>
-          </view>
         </view>
       </view>
     </view>
